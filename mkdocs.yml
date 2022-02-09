@@ -1,0 +1,11 @@
+site_name: ACM ML Bootcamp 2022
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - 'Notebook': 'notebook.ipynb'
+
+plugins:
+  - mkdocs-jupyter:
+      execute: True
+      include_source: True
