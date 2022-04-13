@@ -1,11 +1,63 @@
 site_name: ACM ML Bootcamp 2022
-theme: readthedocs
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  logo: assets/ACM_Logo.png
+  favicon: assets/ACM_Logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - announce.dismiss
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/acmbpdc
+    - icon: fontawesome/brands/github 
+      link: https://github.com/acmbpdc
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/DYQdxquYwP
+
+
+repo_url: https://github.com/acmbpdc/ml-bootcamp-2022
+repo_name: acmbpdc/ml-bootcamp-2022
+
+copyright: Copyright &copy; 2022 - ACM BITS Pilani Dubai Campus
 
 nav:
   - Home: index.md
-  - 'Notebook': 'notebook.ipynb'
+  - '1: Intro to Data Science and Python': ./01-intro-to-data-science-and-python/docs.ipynb
+
+markdown_extensions:
+  - toc:
+      permalink: True 
 
 plugins:
+  - search
   - mkdocs-jupyter:
-      execute: True
       include_source: True
+  
+
+edit_uri: ""
