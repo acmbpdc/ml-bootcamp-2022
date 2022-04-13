@@ -10,7 +10,7 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 
 | Session | Topic |
 | :-----: |:-------------:|
-| 1 | [**Intro to Data Science & Python**]() |
+| 1 | [**Introduction to Python**](01-intro-to-data-science-and-python/docs) |
 | 2 | [**Data Collection & Wrangling**]() |
 | 3 | [**Model Building**]() |
 | 4 | [**Intro to Neural Networks**]() |
@@ -22,8 +22,8 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 This workshop is conducted by:
 
 * [Abshar Mohammed Aslam](https://github.com/abxhr)
+* [Aditya Saxena](https://github.com/aditya-saxena-7)
+* [Areeb Pasha](https://github.com/areeb1501)
 * [Ashish Kumar Jha](https://github.com/Ashish-BITS)
 * [Vignesh Bhat](https://github.com/Viggyz)
-* [Areeb Pasha](https://github.com/areeb1501)
-* [Aditya Saxena](https://github.com/aditya-saxena-7)
 * [Giri Prasad](https://github.com/gpsub)
