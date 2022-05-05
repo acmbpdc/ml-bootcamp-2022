@@ -13,9 +13,8 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 | 1 | [**Introduction to Python**](01-intro-to-data-science-and-python/docs) |
 | 2 | [**Data Preprocessing & Wrangling**](02-data-preprocessing-and-wrangling/docs) |
 | 3 | [**Model Building**](03-model-building/docs/) |
-| 4 | [**Intro to Neural Networks**]() |
-| 5 | [**Convolutional Neural Networks**]()|
-| 6 | [**Project**]() |
+| 4 | [**Intro to Neural Networks**](04-intro-to-neural-networks/docs) |
+| 5 | [**Project**]() |
 
 ## Instructors
 
