@@ -14,7 +14,7 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 | 2 | [**Data Preprocessing & Wrangling**](02-data-preprocessing-and-wrangling/docs) |
 | 3 | [**Model Building**](03-model-building/docs/) |
 | 4 | [**Intro to Neural Networks**](04-intro-to-neural-networks/docs) |
-| 5 | [**Project**]() |
+| 5 | [**Project**](05-project/docs) |
 
 ## Instructors
 

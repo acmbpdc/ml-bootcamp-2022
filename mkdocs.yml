@@ -52,6 +52,7 @@ nav:
   - '2: Data Preprocessing & Wrangling': ./02-data-preprocessing-and-wrangling/docs.ipynb
   - '3: Model Building': ./03-model-building/docs.ipynb
   - '4: Intro to Neural Networks': ./04-intro-to-neural-networks/docs.ipynb
+  - '5: Project': ./05-project/docs.ipynb
 
 markdown_extensions:
   - toc:
